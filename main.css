@@ -1,0 +1,58 @@
+body {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+input {
+    max-width: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.inputs{
+    border-radius: 15px;
+}
+
+.forms {
+    justify-content: center;
+    display: flex;
+}
+
+.button {
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tarefa {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    display: block;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 15px;
+}
